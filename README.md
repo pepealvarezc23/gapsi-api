@@ -36,6 +36,15 @@ Antes de ejecutar el proyecto, asegúrate de tener instalados los siguientes ele
 
 Asegúrate de que tu entorno esté configurado correctamente. Puedes necesitar modificar algunas configuraciones en el archivo .env (si se proporciona) según tu entorno local.
 
+```bash
+PORT=3000
+DB_HOST=gapsi.cdicsicccnab.us-east-2.rds.amazonaws.com
+DB_USER=admin
+DB_PASSWORD=Emiliano2301!
+DB_NAME=gapsi
+
+```
+
 ## Ejecución
 
 Para iniciar la API, ejecuta el siguiente comando:
